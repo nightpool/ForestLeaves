@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<body>
+    <head style="text-transform:uppercase"> Forest Leaves
+        <lb/><persName>Ethiopia<seg>*</seg></persName></head><annotation xml:id="a001"><persName>Harper</persName> revised this poem for her 1854 <em><bibl>Poems on Miscellaneus Subjects</bibl></em>. It was reprinted in <date>Augues 24, 1855</date> issue of <em><bibl><persName>Frederick Douglass'</persName></bibl> Paper.</em></annotation>
+        <lb/>
+        <lg>
+            <l>Yes,<persName>Ethiopia</persName>, yet shall stretch</l>
+            <l>Her bleeding hands abroad,<annotation xml:id="a002"><bibl>Psalm 68:31.</bibl>In the <bibl>Old Testament</bibl>, Ethiopia refers not to the modern kingdom of <placeName>Ethiopia</placeName>, but to an ancient <placeName>Nubia</placeName>, the modern <placeName>Sudan</placeName>. In its nineteenth-century usage, the term "Ethiopian" referred more generally to people of African descent, rather than to the region or nation of <placeName>Ethiopia</placeName>more specifically.  According to the <bibl>Oxford English Dictionary</bibl>, the use of "Ethiop" to refer to " a black or dark-skinned person; a black African" dates to as early as the fourteenth century. This use was also prominent in other African American writing, as in that of <persName>Harper's</persName> predecessor, <persName>Phillis Wheatley</persName>, who refers to herself as "An Ethiop" in<bibl>To the University of Cambridge, in New England"(1773)</bibl></annotation></l>
+            <l>Her cry of agony shall reach</l>
+            <l>The burning throne of <persName>God</persName></l>
+        </lg>
+        <lb/>
+        <lg>
+            <l>The tyrant's yoke from off her neck,</l>
+            <l>His fetters from her soul,</l>
+            <l>The mighty hand of <persName>God</persName>shall break,</l>
+            <l>And spurn their vile control.</l>
+        </lg>
+        <lb/>
+        <lg>
+            <l>Redeem'd<expan>Redeemed</expan>from dust and freed from chains</l>
+            <l>Her sons shall lift their eyes</l>
+            <l>From cloud capt hills and verdant<annotation xml:id="a003">verdant: green with grass, rich vegetation</annotation>plains</l>
+            <l>Shall shouts of triumph rise.</l>
+        </lg>
+        <pb/>
+        <lg>
+            <l>Upon her dark desparing brow</l>
+            <l>Shall play a smile of peace</l>
+            <l>For <persName>God</persName> hath bent unto her woe</l>
+            <l>And bade her sorrows cease.</l>
+        </lg>
+        <lb/>
+        <lg>
+            <l>'Neath<expan>Beneath</expan> sheltering vines and stately palms</l>
+            <l>Shall laughing children play,</l>
+            <l>And aged sires with joyous psalms,</l>
+            <l>Shall gladden every day.</l>
+        </lg>
+        <lb/>
+        <lg>
+            <l>Secure by night, and blest by day</l>
+            <l>Shall pass her happy hours</l>
+            <l>Nor human tigers hunt for prey</l>
+            <l>Within her peaceful bowers.</l>
+        </lg>
+        <lb/>
+        <lg>
+            <l>Then <persName>Ethiopia</persName>, stretch, Oh Stretch</l>
+            <l>Thy bleeding hands abroad,</l>
+            <l>Thy cry of agony shall reach</l>
+            <l>And find redress from <persName>God</persName>.</l>
+        </lg>
+</body>
+
