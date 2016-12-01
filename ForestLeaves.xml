@@ -29,7 +29,6 @@
                             <publisher>
                                 <persName>James Young</persName>
                             </publisher>
-                            <date/><!-- with @when using YYYY format -->
                         </imprint>
                     </monogr>
                 </biblStruct>
@@ -46,14 +45,15 @@
                     </titlePart>
                 </docTitle>
                 <docRole type="author">
-                    <seg style="text-transform: uppercase">by <persName>Frances Ellen Watkins</persName></seg>
-                    <add place="bottom"><note>(married a Mr. Harper.)</note></add>
+                    <respLine style="text-transform: uppercase">by <persName>Frances Ellen Watkins</persName></respLine>
+                    <add place="bottom"><note>(married a <persName>Mr. Harper</persName>.)</note></add>
                 </docRole>
                 <pb n="3"/>
                 <docImprint>
-                    <publisher style="text-transform: uppercase">
-                        <persName>James Young</persName>, Printer,
-                    </publisher>
+                    <docRole type="printer" style="text-transform: uppercase">
+                        <persName>James Young</persName>
+                    </docRole>, <hi style="text-transform: uppercase">Printer</hi>,
+                    <lb/>
                     <pubPlace>Corner of Baltimore and Holliday streets</pubPlace>
                 </docImprint>
             </titlePage>
@@ -1342,7 +1342,7 @@
             <pb n="24"/>
             <figure>
                 <figDesc>A woodcut of a park, with three monuments visible in the foreground. One is centered, and has a prominent shield as part of its decoration. Five figures are depicted also, strolling in the park. Two on the left-hand side are in conversation, facing away from the viewer. The three on the right-hand side are also discussing something, and one is gesturing to the monument.</figDesc>
-                <!-- TODO: embed graphic? -->
+                <graphic url="fig-back.png" />
             </figure>
         </back>
     </text>
