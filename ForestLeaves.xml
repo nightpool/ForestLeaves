@@ -49,7 +49,7 @@
                     <seg style="text-transform: uppercase">by <persName>Frances Ellen Watkins</persName></seg>
                     <add place="bottom"><note>(married a Mr. Harper.)</note></add>
                 </docRole>
-                <pb/>
+                <pb n="3"/>
                 <docImprint>
                     <publisher style="text-transform: uppercase">
                         <persName>James Young</persName>, Printer,
@@ -61,7 +61,7 @@
         <body>
             <div1 type="poem">
                 <head style="text-transform:uppercase">Forest Leaves<lb/>
-                    <persName xml:id="a001" corresp="#n001">Ethiopia</persName>
+                    <bibl><persName xml:id="a001" corresp="#n001">Ethiopia</persName></bibl>
                     <note xml:id="n001" target="#a001">
                         <persName>Harper</persName> revised this poem for her 1854 <bibl style="font­-style: italic">Poems on Miscellaneus Subjects</bibl>. It was reprinted in <date>Augues 24, 1855</date> issue of <bibl style="font­-style: italic"><persName>Frederick Douglass'</persName></bibl> Paper.
                     </note>
@@ -85,7 +85,7 @@
                 </lg>
                 <lb/>
                 <lg>
-                    <l>Redeem'd<expan>Redeemed</expan>from dust and freed from chains</l>
+                    <l><choice><abbr>Redeem'd</abbr><expan>Redeemed</expan></choice> from dust and freed from chains</l>
                     <l>Her sons shall lift their eyes</l>
                     <l>From cloud capt hills and <seg xml:id="a003" corresp="#n003">verdant</seg><note xml:id="n003" corresp="#a003">verdant: green with grass, rich vegetation</note> plains</l>
                     <l>Shall shouts of triumph rise.</l>
@@ -99,7 +99,7 @@
                 </lg>
                 <lb/>
                 <lg>
-                    <l>'Neath<expan>Beneath</expan> sheltering vines and stately palms</l>
+                    <l><choice><abbr>'Neath</abbr><expan>Beneath</expan></choice> sheltering vines and stately palms</l>
                     <l>Shall laughing children play,</l>
                     <l>And aged sires with joyous psalms,</l>
                     <l>Shall gladden every day.</l>
@@ -119,10 +119,10 @@
                     <l>And find redress from <persName>God</persName>.</l>
                 </lg>
             </div1>
-            <pb/>
+            <pb n="4"/>
             <div1 type="poem">
                 <head>
-                    <title style="text-transform:uppercase">The Soul.</title>
+                    <title style="text-transform:uppercase"><bibl>The Soul.</bibl></title>
                     <note xml:id="a004">
                         In his 1891 <bibl style="font­-style: italic">History of the African Methodist Episcopal Church</bibl>,<persName>Daniel A. Payne</persName>the church's sixth bishop and its first histographer, recalls that two of <persName>Harper's</persName>poetic<bibl>"productions of 1853"</bibl>were published in the<bibl style="font­-style: italic">Christian Recorder:</bibl><bibl>"The Soul"</bibl>and <bibl>"The Dying Christian"</bibl>(301-303). In addition to reproducing revised versions of each poem, <persName>Payne</persName>notes that <persName>Harper</persName>contributed essays on "Christianity" and "Womens Rights" to the <bibl style="font­-style: italic">Christian Recorder</bibl>between 1852 and 1853(305)."Christianity" may be the essay of the same name that <persName>Harper</persName>printed in her 1854 <bibl style="font­-style: italic">Poems on Miscellaneous Subjects.</bibl>
                     </note>
@@ -146,7 +146,7 @@
                     <l>Bring the rich and radiant gems of thought</l>
                     <l>From the mines and deeps of knowledge brought;</l>
                     <l>Bring glowing words and ponderous lore</l>
-                    <l>Search <placeName>heaven</placeName> and <placeName>earth's</placeName> arcana<note xml:id="a005">arcana: secrets or mysteries</note> o'er<expan>over</expan> </l>
+                    <l>Search <placeName>heaven</placeName> and <placeName>earth's</placeName> arcana<note xml:id="a005">arcana: secrets or mysteries</note> <choice><abbr>o'er</abbr><expan>over</expan></choice></l>
                 </lg>
                 <lb/>
                 <lg>
@@ -158,7 +158,7 @@
                 <lb/>
                 <lg>
                     <l>We've brought the wealth of every mine,</l>
-                    <l>We've ransack'd<expan>ransacked</expan> ocean, land clime,</l>
+                    <l>We've <choice><abbr>ransack'd</abbr><expan>ransacked</expan></choice> ocean, land clime,</l>
                     <l>And caught the joyous smiles away</l>
                     <l>From the prattling babe to the sire grey.</l>
                 </lg>
@@ -183,24 +183,70 @@
                     <l>For the wreaths, the robes and gems of thought,</l>
                     <l>Let an empty place in the scale be sought.</l>
                 </lg>
-                <pb/>
+                <pb n="5"/>
                 <lg>
                     <l>With care we've adjusted balance and scale</l>
                     <l>Futile our efforts we've seen them fail;</l>
                     <l>Lighter than dust is the wealth of <placeName>earth</placeName></l>
-                    <l>Weigh'd<expan>Weighed</expan>in the scales with immortal worth</l>
+                    <l><choice><abbr>Weigh'd</abbr><expan>Weighed</expan></choice>in the scales with immortal worth</l>
                 </lg>
                 <lb/>
                 <lg>
                     <l>Could we drag the sun from its golden car<note xml:id="a007">car:chariot</note></l>
-                    <l>To lay in this balance with ev'ry<expan>every</expan> star,</l>
-                    <l>T'would<expan>It would</expan> darken the day and obscure the night,</l>
+                    <l>To lay in this balance with <choice><abbr>ev'ry</abbr><expan>every</expan></choice> star,</l>
+                    <l><choice><abbr>It would</abbr><expan>It would</expan></choice> darken the day and obscure the night,</l>
                     <l>But the weight of the balance would still be light.</l>
                 </lg>
             </div1>
             <div1 type="poem">
-                <head>
-                    <title style="text-transform: uppercase">"That Blessed Hope"</title>
+                <head><bibl>"HE KNOWETH NOT THAT THE DEAD ARE THERE."</bibl><note xmlid= "a008">Proverbs 9:18. Harper revised this poem for her 1854 Poems on Miscellaneous Subjects, where it is titled “The Revel.”
+                </note> </head>
+                <lg>
+                    <l>In yonder halls reclining</l>
+                    <l>Are forms suprassing fair,</l>
+                    <l>And brilliant lights are shining,</l>
+                    <l>But, Oh! the dead are there.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>There's music, song and dance,</l>
+                    <l>There is banishment of care,</l>
+                    <l>And mirth in every glance,</l>
+                    <l>But sitll the dead are there.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Like the asp's<seg>*</seg><note xmlid="a009">asp: a small, venomous snake from Egypt</note> seductive venom</l>
+                    <l>Hid 'neath<exten>beneath</exten> flowerets fair,</l>
+                    <l>This charnal house<seg>*</seg><note xmlid="a010"></note> concealeth</l>
+                    <l>The dead that slumber here.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>'Neath<exten>Beneath</exten> that flow of song and laughter</l>
+                    <l>Runs the current of despair,</l>
+                    <l>But the simple songs of pleasure</l>
+                    <l>Know not the dead are there.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>They'll shudder, start and tremble,</l>
+                    <l>They'll weep in wild despair,</l>
+                    <l>When the solumn truth breaks on them</l>
+                    <l>That the dead, the dead are there.</l>
+                </lg>
+                <lb/>
+                <pb n="6"/>
+                <lg>
+                    <l>They who've scoff'd<exten>scoffed</exten> at ev'ry<exten>every</exten> warning</l>
+                    <l>Who've turn'd<exten>turned</exten> from ev'ry<exten>every</exten> prayer,</l>
+                    <l>Shall learn in bitter anguish</l>
+                    <l>That the dead, the dead are there.</l>
+                </lg>
+            </div1>
+            <div1 type="poem">
+                <head style="text-transform: uppercase">
+                    <bibl>"That Blessed Hope"</bibl>
                     <note xml:id="a011">Titus 2:13. Watkins revised this poem for her 1854 <hi>Poems on Miscellaneous Subjects</hi>.</note>
                 </head>
                 <lg>
@@ -245,15 +291,15 @@
                     <l>I may that crown obtian.</l>
                 </lg>
             </div1>
-            <div1>
-                <head style="text-transform:uppercase">Page 7
-                    <lb/><title>Yearnings for Home.<seg>*</seg></title></head>
+            <pb n="7"/>
+            <div1 type="poem">
+                <head style="text-transform:uppercase"><bibl>Yearnings for <placeName>Home</placeName>.</bibl></head>    
                 <lb/>
                 <lg>
                     <l>Oh let me go I'm weary here</l>
                     <l>And fevers scorch my brain,</l>
                     <l>I long to feel my native air</l>
-                    <l>Breath o'er<expan>over</expan> each burning vein.</l>
+                    <l>Breath <choice><abbr>o'er</abbr><expan>over</expan></choice> each burning vein.</l>
                 </lg>
                 <lb/>
                 <lg>
@@ -265,7 +311,7 @@
                 <lb/>
                 <lg>
                     <l>My <placeName>home</placeName> is where eternal snow</l>
-                    <l>Round threat'ning<expan>threatening</expan> craters sleep,</l>
+                    <l>Round <choice><abbr>threat'ning</abbr><expan>threatening</expan></choice> craters sleep,</l>
                     <l>Where streamlets murmer soft and low</l>
                     <l>And playful cascades leap.</l>
                 </lg>
@@ -279,20 +325,20 @@
                 <lb/>
                 <lg>
                     <l>Your scenes are bright I know,</l>
-                    <l>But there my mother pray'd<expan>prayed</expan></l>
+                    <l>But there my mother <choice><abbr>pray'd</abbr><expan>prayed</expan></choice></l>
                     <l>Her cot is lowly, but I go</l>
                     <l>To die beneath its shade.</l>
                 </lg>
                 <lb/>
                 <lg>
                     <l>For, Oh I know she'll cling</l>
-                    <l>'Round<expan>Around</expan> me her treasur'd<expan>treasured</expan> long,</l>
+                    <l><choice><abbr>'Round</abbr><expan>Around</expan></choice> me her <choice><abbr>treasur'd</abbr><expan>treasured</expan></choice> long,</l>
                     <l>My sisters too will sing</l>
-                    <l>Each lov'd<expan>loved</expan> familiar song.</l>
+                    <l>Each <choice><abbr>lov'd</abbr><expan>loved</expan></choice> familiar song.</l>
                 </lg>
                 <lb/>
                 <lg>
-                    <l>They'll soothe my fever'd<expan>fevered</expan> brow,</l>
+                    <l>They'll soothe my <choice><abbr>fever'd</abbr><expan>fevered</expan></choice> brow,</l>
                     <l>As in departed hours,</l>
                     <l>And spread around my dying couch</l>
                     <l>The brightest, fairest flowers.</l>
@@ -302,14 +348,14 @@
                     <l>Then let me go I'm weary here</l>
                     <l>And fevers scorch my brain,</l>
                     <l>I long to feel my native air.</l>
-                    <l>Breath o'er<expan>over</expan> each burning vein</l>
+                    <l>Breath <choice><abbr>o'er</abbr><expan>over</expan></choice> each burning vein</l>
                 </lg>
             </div1>
-            <div1>
-                <head style="text-transform:uppercase"><persName>Haman</persName> and <persName>Mordecai</persName>.<note xml:id="a0015"><bibl>Esther 3:1-7:10</bibl>. <persName>Mordecai</persName> is a relative and guardian of <persName>Esther</persName>, who becomes queen when she marries <persName>King Ahasuerus</persName> (Xerxes 1 of <placeName>Persia</placeName>). <persName>Haman</persName>, the grand vizier, is infurieted that <persName>Mordecai</persName>, a Jew, refuses to bow to do him obeisance on religious grounds. <persName>Haman</persName> therefore plots not only to have <persName>Mordecai</persName> killed, but to exterminate all Jews in the <placeName>Persian Empire</placeName>.<persName>Queen Esther</persName>, who is herself Jewish, informs the king of <persName>Mordecai</persName>'s service to him and <persName>Haman</persName>'s plot and petitions him to save the lives of her people. <persName>Haman</persName> throws himself upon <persName>Esther</persName>'s couch to plead with her for his own life, but the king takes this as an assault. <persName>Ahasuerus</persName> ultimately has <persName>Haman</persName> hanged on the gallows that <persName>Haman</persName> had prepared for <persName>Mordecai</persName>. <persName>Mordecai</persName> is appointed grand vizier and the king gives the Jews permission to slaughter their enemies. This deliverance of Persian Jews from <persName>Haman</persName>'s plot establishes the Jewish feast of Purim.</note></head><lb/>
+            <div1 type="poem">
+                <head style="text-transform:uppercase"><bibl><persName>Haman</persName> and <persName>Mordecai</persName></bibl>.<note xml:id="a0015"><bibl>Esther 3:1-7:10</bibl>. <persName>Mordecai</persName> is a relative and guardian of <persName>Esther</persName>, who becomes queen when she marries <persName>King Ahasuerus</persName> (Xerxes 1 of <placeName>Persia</placeName>). <persName>Haman</persName>, the grand vizier, is infurieted that <persName>Mordecai</persName>, a Jew, refuses to bow to do him obeisance on religious grounds. <persName>Haman</persName> therefore plots not only to have <persName>Mordecai</persName> killed, but to exterminate all Jews in the <placeName>Persian Empire</placeName>.<persName>Queen Esther</persName>, who is herself Jewish, informs the king of <persName>Mordecai</persName>'s service to him and <persName>Haman</persName>'s plot and petitions him to save the lives of her people. <persName>Haman</persName> throws himself upon <persName>Esther</persName>'s couch to plead with her for his own life, but the king takes this as an assault. <persName>Ahasuerus</persName> ultimately has <persName>Haman</persName> hanged on the gallows that <persName>Haman</persName> had prepared for <persName>Mordecai</persName>. <persName>Mordecai</persName> is appointed grand vizier and the king gives the Jews permission to slaughter their enemies. This deliverance of Persian Jews from <persName>Haman</persName>'s plot establishes the Jewish feast of Purim.</note></head><lb/>
                 <lg>
                     <l>He stood at <placeName>Persia</placeName>'s Palace gate</l>
-                    <l>And vassal<note xml:id="a0016">vassal: person(s) in a subordinate position</note> round him bow'd<expan>bowed</expan>.</l>
+                    <l>And vassal<note xml:id="a0016">vassal: person(s) in a subordinate position</note> round him <choice><abbr>bow'd</abbr><expan>bowed</expan></choice>.</l>
                     <l>Upon his brow was written hate</l>
                     <l>And he heeded not the crowd.</l>
                 </lg>
@@ -320,39 +366,39 @@
                     <l>His bosom shook with rage and scorn</l>
                     <l>For <persName>Mordecai</persName> stood there.</l>
                 </lg>
-                <pb/>
+                <pb n="9"/>
                 <lg>
-                    <l>When ev'ry<expan>every</expan> satrap<note xml:id="a0017">satrap: provincial governer in the ancient <placeName>Persian Empire</placeName>; a subordinate ruler</note> bow'd<expan>bowed</expan></l>
+                    <l>When <choice><abbr>ev'ry</abbr><expan>every</expan></choice> satrap<note xml:id="a0017">satrap: provincial governer in the ancient <placeName>Persian Empire</placeName>; a subordinate ruler</note> <choice><abbr>bow'd</abbr><expan>bowed</expan></choice></l>
                     <l>To him of noble blood,</l>
                     <l>Amid that servile crowd</l>
                     <l>One form unbending stood.</l>
                 </lg>
                 <lb/>
                 <lg>
-                    <l>And as he gaz'd<expan>gazed</expan> upon that form,</l>
-                    <l>Dark flash'd<expan>flashed</expan> his angry eye,</l>
-                    <l>'Twas as the light'ning<expan>lightning</expan> ere the storm</l>
+                    <l>And as he <choice><abbr>gaz'd</abbr><expan>gazed</expan></choice> upon that form,</l>
+                    <l>Dark <choice><abbr>flash'd</abbr><expan>flashed</expan></choice> his angry eye,</l>
+                    <l>'Twas as the <choice><abbr>light'ning</abbr><expan>lightning</expan></choice> ere the storm</l>
                     <l>Hath swepth in fury by.</l>
                 </lg>
                 <lb/>
                 <lg>
                     <l>On noble <persName>Mordecai</persName> alone,</l>
-                    <l>He scorn'd<expan>scorned</expan> to lay his hand;</l>
+                    <l>He <choice><abbr>scorn'd</abbr><expan>scorned</expan></choice> to lay his hand;</l>
                     <l>But sought an edict from the throne</l>
-                    <l>'Gainst<expan>against</expan> all the captivt band.</l>
+                    <l><choice><abbr>'Gainst</abbr><expan>against</expan></choice> all the captivt band.</l>
                 </lg>
                 <lb/>
                 <lg>
                     <l>For full of pride and wrate</l>
                     <l>To his fell purpose true,</l>
-                    <l>He vow'd<expan>vowed</expan> that from his path</l>
-                    <l>Should perish ev'ry<expan>every</expan> Jew.</l>
+                    <l>He <choice><abbr>vow'd</abbr><expan>vowed</expan></choice> that from his path</l>
+                    <l>Should perish <choice><abbr>ev'ry</abbr><expan>every</expan></choice> Jew.</l>
                 </lg>
                 <lb/>
                 <lg>
                     <l>Then woman's voice arose</l>
-                    <l>In deep impassion'd<expan>impassioned</expan> prayer,</l>
-                    <l>His heart with pity stirr'd<expan>stirred</expan>,</l>
+                    <l>In deep <choice><abbr>impassion'd</abbr><expan>impassioned</expan></choice> prayer,</l>
+                    <l>His heart with pity <choice><abbr>stirr'd</abbr><expan>stirred</expan></choice>,</l>
                     <l>ANd he resolved to spare.</l>
                 </lg>
                 <lb/>
@@ -362,17 +408,61 @@
                     <l>And from his cruel hate</l>
                     <l>The captive Jews are freed.</l>
                 </lg>
-                <pb/>
+            </div1>    
+                <pb n="10"/>
+            <div1 type="poem">
+                <head style="text-transformation: uppercase"> <bibl>LET ME LOVE THEE.</bibl></head>
+                <lg>
+                    <l>Let me love thee i<choice><abbr>tho'</abbr><expan>though</expan></choice> my riven heart is lone.</l>
+                    <l>It fondly clasps and firmly clings.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Oh! let me love thee, I have seen</l>
+                    <l>Hope's fairest blossoms fail,</l>
+                    <l>Have felt my life a mournful dream</l>
+                    <l>And this world a tearful vale.<seg>*</seg><note xmlid="a018"></note></l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Oh! let me love thee, I have felt</l>
+                    <l>Deep yearnings for a kindly heart,</l>
+                    <l>When joy would thrill or sorrow melt</l>
+                    <l>Some kindred soul to bear a part</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Let me love thee, yet Oh! yet</l>
+                    <l>Breathe not distrust around my heart,</l>
+                    <l>The lov'd, the cherish may forget</l>
+                    <l>And act a cold and faithless part.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Let me love thee, I have press'd<exten>pressed</exten></l>
+                    <l>Sadly my aching heart and brow,</l>
+                    <l>But banish'd<exten>banished</exten> ne'er<exten>near</exten> from each recess</l>
+                    <l>The thirst of love that fills them now.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Let me love thee, let my breast</l>
+                    <l>Closely round thee entwine,</l>
+                    <l>And hide within its deep recess</l>
+                    <l>True constant love like thine.</l>
+                </lg>
+                <lb/>
             </div1>
+            <div1 type="poem">
                 <head>
-                    <title style="text-transform:uppercase">Ruth and Niomi.</title>
+                    <bibl style="text transform: uppercase">Ruth and Niomi.</bibl>
                     <note xml:id="a019"> Naomi moves from Bethlehem to Moab with her husband and sons, one of whom marries Ruth, a Moabite woman. Naomi’s husband and sons (including Ruth’s husband) die and Naomi prepares to return to Bethlehem. Ruth chooses to remain with her mother-in-law and works to support her, rather than returning to her own people. Ruth’s marriage to Mahlon is considered a “mixed” marriage because Ruth is a Moabite and Naomi and her family are Jewish. This makes Ruth’s decision to remain with her mother-in-law even more significant (Ruth 1:9-22). Ruth goes on to marry Boaz, a wealthy landowner and relation of Naomi’s late husband. King David is one of their descendants (<bibl>Ruth 2:1-4:22</bibl>). Watkins revised this poem for the 1857 edition of <bibl style="font­-style: italic">Poems on Miscellaneous Subjects</bibl>.</note>
                 </head>
                 <lg>
                     <l>Turn my daughters full of woe,</l>
                     <l>Is my heart so sad and lone,</l>
                     <l>Leave me, children, I would go</l>
-                    <l>To my <choice><abbr>lov'd</abbr><expan>loved</expan></choice> and distant home.</l>
+                    <l>To my <choice><abbr>lov'd</abbr><expan>loved</expan></choice>
                 </lg>
                 <lb/>
                 <lg>
@@ -381,7 +471,7 @@
                     <l>Left me not a single one</l>
                     <l>For my life's declining day.</l>
                 </lg>
-                <pb/>
+                <pb n="11"/>
                 <lg>
                     <l>Want and wo surround my way,</l>
                     <l>Grief and famine where I tread;</l>
@@ -444,7 +534,7 @@
                     <l>I'll bring into thy lowly cot</l>
                     <l>The wealth of woman's love</l>
                 </lg>
-                <pb/>
+                <pb n="12"/>
                 <lg>
                     <l>However drear, earth has no lot</l>
                     <l>My spirit shrinks to share with thee,</l>
@@ -472,13 +562,70 @@
                     <l>My heart is <choice><abbr>mov'd</abbr><expan>moved</expan></choice> to share thy lot</l>
                     <l>What <choice><abbr>e'er</abbr><expan>ever</expan></choice> that lot may be.</l>
                 </lg>
-                <head style="text-transform:uppercase">To a Missionary</head>
+            </div1>
+            <div1 type="poem">
+                <head style="text-tranansformation: uppercase"><bibl>"Bible Defence of slavery."</bibl><note xmlid="a021">This poem references <persName>Josiah Priest's</persName> 1851 proslavery work of the same name. <persName>Harper</persName> revises the poem for the 1854 edition of Poems on Miscellaneous Subjects </note></head>
+                <lg>
+                    <l>Take a sackcloth<seg>*</seg><note xmlid="a022">sackcloth: a coarse cloth made from various fabric such as goat fur or flax</note></l>
+                    <l>And shroud the pulpits round,</l>
+                    <l>Servants of him that cannot lie</l>
+                    <l>Sit mourning on the ground.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Let holy horror bleanche each cheek,</l>
+                    <l>Pane ev'ry<exten>every</exten> brow with fears,</l>
+                    <l>And rocks and stones if ye could speak</l>
+                    <l>Ye well might melt to tears.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Let sorrow breathe in ev'ry<exten>every</exten> tone</l>
+                    <l>And grief in ev'ry<exten>every</exten> strain ye raise,</l>
+                    <l>Insult not heaven's majestic throne</l>
+                    <l>Wit the mockery of praise.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>A man whose light should be</l>
+                    <l>The guide of age and youth,</l>
+                    <pb n="13"/>
+                    <l>Brings to the shrine of slavery</l>
+                    <l>The sacrifice of truth.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>For the fiercest wrongs that ever rose</l>
+                    <l>Since <placeName>Sodom's</placeName><seg>*</seg><note xmlid="a023">In the book of Genesis, <persName>God</persName> destroys the city of <placeName>Sodom</placeName>, along with the city of <placeName>Gomorrah</placeName>, with a rain of fire and sulphur because of it's sin and immorality. This story becomes a proverbial example of human depravity and <persName>God's</persName> judgment and punishment. (Genesis 19:1-38).
+                    </note> fearful cry,</l>
+                    <l>The word of life has been unclos'd<exten>unclosed</exten></l>
+                    <l>To give your God the lie.</l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>An infidel could do no more</l>
+                    <l>TO hide his country's guilty blot,</l>
+                    <l>Than spread <persName>God's</persName> holy record o'er<exten>over</exten></l>
+                    <l>The loathesome leprous<seg>*</seg><note xmlid= "a024">leprous: infected with leprosy
+                    </note></l>
+                </lg>
+                <lb/>
+                <lg>
+                    <l>Oh, when ye pray for heathen lands,</l>
+                    <l>And plead for dark benighted shores,</l>
+                    <l>Remember slavery's cruel hands</l>
+                    <l>Make heathens at your doors.</l>
+                </lg>
+                <lb/>
+            </div1>
+            <div1 type="poem">
+                <head style="text-transform:uppercase"><bibl>To a Missionary</bibl></head>
                 <lb/>
                 <lg>
                     <l>Joy, joy! unto the heathen,</l>
                     <l>Unfurl each snowy sail,</l>
                     <l>And waft the breath of prayer</l>
-                    <l>On ev'ry<expan>every</expan> breeze and gale.</l>
+                    <l>On <choice><abbr>ev'ry</abbr><expan>every</expan></choice> breeze and gale.</l>
                 </lg>
                 <lb/>
                 <lg>
@@ -497,11 +644,11 @@
                 <lb/>
                 <lg>
                     <l>Heathen minds by sin degraded,</l>
-                    <l>Captives 'neath<expan>beneath</expan> the tempter's sway,</l>
+                    <l>Captives <choice><abbr>'neath</abbr><expan>beneath</expan></choice> the tempter's sway,</l>
                     <l>Shall from their moral vision</l>
-                    <l>Have the darkness chas'd<expan>chased</expan> away</l>
+                    <l>Have the darkness <choice><abbr>chas'd</abbr><expan>chased</expan></choice> away</l>
                 </lg>
-                <pb/>
+                <pb n="14"/>
                 <lg>
                     <l>'Neath<expan>beneath</expan> bamboo hut and palm tree</l>
                     <l>Shall prayer like incense rise,</l>
@@ -529,183 +676,454 @@
                     <l>Be your stay in grief and trial</l>
                     <l>And the joy of every hour.</l>
                 </lg>
-                <head style="text-transform:uppercase">The Dying Christian<seg>*</seg></head><note xml:id="a030">Harper revised this poem for her 1854 <em>Poems on Miscellaneous Subjects</em>.</note>
-                <lg>
-                    <l>The light was faintly streaming</l>
-                    <l>Within a <choice><abbr>darken'd</abbr><expan>darkened</expan></choice> room,</l>
-                    <l>Where a woman, faint and feeble</l>
-                    <l>Was sinking to the tomb</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>"The silver cord"<seg>*</seg> was loosened,</l><note xml:id="a031">Ecclesiastes 12:6-7.</note>
-                    <l>We knew that she must die,</l>
-                    <l>We read the mournful token</l>
-                    <l>In the dimness of her eye.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>We read it in the radiance</l>
-                    <l>That lit her pallid cheek,</l>
-                    <l>And the quivering of the feeble lip</l>
-                    <l>Too faint its joys to speak.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>We read in the glorious flash</l>
-                    <l>Of strange unearthly light,</l>
-                    <l>That ever and non would dash</l>
-                    <l>The dimness from her sight.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>And in the thoughts of living fire</l>
-                    <l><choice><abbr>Learn'd</abbr><expan>Learned</expan></choice> from <persName>God</persName>'s encamping band,</l>
-                    <l>Her words <choice><abbr>seem'd</abbr><expan>seemed</expan></choice> like a holy lyre</l>
-                    <l><choice><abbr>Tun'd</abbr><expan>Tuned</expan></choice> in the spirit land.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>Meet, oh meet me in the <placeName>kingdom</placeName>,</l>
-                    <l>Said our <choice><abbr>lov'd</abbr><expan>loved</expan></choice> and dying one,</l>
-                    <l>I long to be with <persName>Jesus</persName>,</l>
-                    <l>I am going, going home.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>Like a child <choive><abbr>oppress'd</abbr><expan>oppressed</expan></choive> with slumber</l>
-                    <l>She calmly sank to rest,</l>
-                    <l>With her trust in the <persName>Redeemer</persName></l>
-                    <l>And her head upom his breast.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>She faded from our vision</l>
-                    <l>Like a thing of love and light,</l>
-                    <l>But we feel she lives forever</l>
-                    <l>A spirit pure and bright.</l>
-                </lg>
-                <head style="text-transform:uppercase">A Dream</head>
-                <lg>
-                    <l>I had a dream, a varied dream,<seg>*</seg></l><note xml:id="a032">This line also opens one of Harper’s later poems, “Fishers of Men,” which was published in the 1886 edition of <em>Sketches of Southern Life</em>.</note>
-                    <l>A dream of joy and dread;</l>
-                    <l>Before me rose the judgement scene</l>
-                    <l>For <persName>God</persName> has raised the dead.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>Each waiting one lifted his head</l>
-                    <l><choice><abbr>Rejoic'd</abbr><expan>Rejoiced</expan></choice> to see him nigh,</l>
-                    <l>And erth cast out her sainted dead</l>
-                    <l>To meet him in the sky</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>Before his white and burning throne</l>
-                    <l>A countless throng did stand;</l>
-                    <l>Whilst <persName>Christ</persName> <choice><abbr>confess's</abbr><expan>confessed</expan></choice> his own,</l>
-                    <l>Whose names were on his hand</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>I hand a dream, a varied dream,</l>
-                    <l>A dream of joy and dread;</l>
-                    <l>Beofre me rose the judgment scene</l>
-                    <l>For <persName>God</persName> had <choice><abbr>rais'd</abbr><expan>raised</expan></choice> the dead.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>Oh for an angel's hand to paint</l>
-                    <l>The terrors of that day,</l>
-                    <l>When <persName>God</persName> in vengance for his saints</l>
-                    <l>Girded<seg>*</seg> himself with wrath to slay.</l><note xml:id="a033">girded: to encircle a person or part of a body with a belt</note>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>But, oh the terror, grief, and dread,</l>
-                    <l>Tongue can't describe or pen portray;</l>
-                    <l>When from their graves arose the dead,</l>
-                    <l>Guilty to meet the judgment day.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>As sudden as the lightning's flash</l>
-                    <l>Across the sky doth sweep,</l>
-                    <l>Earth's kingdom's were in pieces <choice><abbr>dash'd</abbr><expan>dashed</expan></choice>,</l>
-                    <l>And <choice><abbr>waken'd</abbr><expan>wakened</expan></choice> from their guilty sleep.</l>
-                </lg>
-                <pb/>
-                <lg>
-                    <l>I heard the agonizing cry,</l>
-                    <l>Ye rocks and mountains on us fall,</l>
-                    <l>And hide us from the Judge's eye</l>
-                    <l>But rocks and mounts fled from the call</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>I saw the guilty <choice><abbr>ruin'd</abbr><expan>ruined</expan></choice> host</l>
-                    <l>Standing before the burning throne,</l>
-                    <l>The <choice><abbr>ruin'd</abbr><expan>ruined</expan></choice>, lost forever lost,</l>
-                    <l>Whom <persName>God</persName> in wrath <choice><abbr>refus'd</abbr><expan>refused</expan></choice> to own.</l>
-                </lg>
-                <head style="text-transform:uppercase">An Acrostic<seg>*</seg></head><note xml:id="a040">An acrostic is a poem in which certain letters in each line (often the first letters) spell out a word or phrase.</note>
-                <lg>
-                    <l>Angels bright that hover <choice><abbr>o'er</abbr><expan>over</expan></choice> thee,</l>
-                    <l>Deem thee an object of their care;</l>
-                    <l>Ever watchful they surround thee,</l>
-                    <l>Lending aid when danger's near.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>May this life, this guarded, sister</l>
-                    <l>Always feel thy <persName>Saviour</persName> near</l>
-                    <l>Render him thy heart's devotion-</l>
-                    <l>Trust his goodness, seek his care;</l>
-                    <l>In these vales of grief and sorrow,</l>
-                    <l>Nought shall harm while <persName>God</persName> is near.</l>
-                </lg>
-                <head style="text-transform:uppercase">The Presentiment</head><lb/>
-                <lg>
-                    <l>There's something strangely thrills my breast,</l>
-                    <l>And fills it with a deep unrest,--</l>
-                    <l>It is not grief, it is not pain</l>
-                    <l>Nor wish to live the past again</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>'Tis something which I scarce can tell,</l>
-                    <l>And yet I know, and feel it well;</l>
-                    <l>Thro'<expan>through</expan> ev'ry<expan>every</expan> vein it seems to run,</l>
-                    <l>And whispers life will soon be done.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>It comes in accents soft and low,</l>
-                    <l>Like bright streamlets crystal flow,</l>
-                    <l>It whispers, lingers round my heart,</l>
-                    <l>And tells me I must soon depart</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>I felt it when the glow of life</l>
-                    <l>Was warm upon my cheek,</l>
-                    <l>In mournful cadence to my heart.</l>
-                    <l>It solemnly did speak.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>I felt it when a fearful strife</l>
-                    <l>Was preying on my heart,</l>
-                    <l>It told me from the cares of life,</l>
-                    <l>I quickly must depart.</l>
-                </lg>
-                <lb/>
-                <lg>
-                    <l>I felt it when my cheek grew pale,</l>
-                    <l>By cares I could'nt<expan> could not</expan> repress;</l>
-                    <l>It whisper'd<expan>whispered</expan> to my wearried soul.</l>
-                    <l>This earth is not your rest.</l>
-                </lg>
+                <pb n="15"/>
+            </div1>    
+            <div1 type="poem">  
+                <head style="text-transform:uppercase"><bibl>The Dying Christian</bibl></head><note xml:id="a030">Harper revised this poem for her 1854 <em>Poems on Miscellaneous Subjects</em>.</note>
+                    <lg>
+                        <l>The light was faintly streaming</l>
+                        <l>Within a <choice><abbr>darken'd</abbr><expan>darkened</expan></choice> room,</l>
+                        <l>Where a woman, faint and feeble</l>
+                        <l>Was sinking to the tomb</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>"The silver cord"<seg>*</seg> was loosened,</l><note xml:id="a031">Ecclesiastes 12:6-7.</note>
+                        <l>We knew that she must die,</l>
+                        <l>We read the mournful token</l>
+                        <l>In the dimness of her eye.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>We read it in the radiance</l>
+                        <l>That lit her pallid cheek,</l>
+                        <l>And the quivering of the feeble lip</l>
+                        <l>Too faint its joys to speak.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>We read in the glorious flash</l>
+                        <l>Of strange unearthly light,</l>
+                        <l>That ever and non would dash</l>
+                        <l>The dimness from her sight.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>And in the thoughts of living fire</l>
+                        <l><choice><abbr>Learn'd</abbr><expan>Learned</expan></choice> from <persName>God</persName>'s encamping band,</l>
+                        <l>Her words <choice><abbr>seem'd</abbr><expan>seemed</expan></choice> like a holy lyre</l>
+                        <l><choice><abbr>Tun'd</abbr><expan>Tuned</expan></choice> in the spirit land.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Meet, oh meet me in the <placeName>kingdom</placeName>,</l>
+                        <l>Said our <choice><abbr>lov'd</abbr><expan>loved</expan></choice> and dying one,</l>
+                        <l>I long to be with <persName>Jesus</persName>,</l>
+                        <l>I am going, going home.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Like a child <choive><abbr>oppress'd</abbr><expan>oppressed</expan></choive> with slumber</l>
+                        <l>She calmly sank to rest,</l>
+                        <l>With her trust in the <persName>Redeemer</persName></l>
+                        <l>And her head upom his breast.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>She faded from our vision</l>
+                        <l>Like a thing of love and light,</l>
+                        <l>But we feel she lives forever</l>
+                        <l>A spirit pure and bright.</l>
+                    </lg>
+                    <head style="text-transform:uppercase"><bibl>A Dream</bibl></head>
+                    <lg>
+                        <l>I had a dream, a varied dream,<seg>*</seg></l><note xml:id="a032">This line also opens one of Harper’s later poems, “Fishers of Men,” which was published in the 1886 edition of <em>Sketches of Southern Life</em>.</note>
+                        <l>A dream of joy and dread;</l>
+                        <l>Before me rose the judgement scene</l>
+                        <l>For <persName>God</persName> has raised the dead.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Each waiting one lifted his head</l>
+                        <l><choice><abbr>Rejoic'd</abbr><expan>Rejoiced</expan></choice> to see him nigh,</l>
+                        <l>And erth cast out her sainted dead</l>
+                        <l>To meet him in the sky</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Before his white and burning throne</l>
+                        <l>A countless throng did stand;</l>
+                        <l>Whilst <persName>Christ</persName> <choice><abbr>confess's</abbr><expan>confessed</expan></choice> his own,</l>
+                        <l>Whose names were on his hand</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I hand a dream, a varied dream,</l>
+                        <l>A dream of joy and dread;</l>
+                        <l>Beofre me rose the judgment scene</l>
+                        <l>For <persName>God</persName> had <choice><abbr>rais'd</abbr><expan>raised</expan></choice> the dead.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Oh for an angel's hand to paint</l>
+                        <l>The terrors of that day,</l>
+                        <l>When <persName>God</persName> in vengance for his saints</l>
+                        <l>Girded<seg>*</seg> himself with wrath to slay.</l><note xml:id="a033">girded: to encircle a person or part of a body with a belt</note>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>But, oh the terror, grief, and dread,</l>
+                        <l>Tongue can't describe or pen portray;</l>
+                        <l>When from their graves arose the dead,</l>
+                        <l>Guilty to meet the judgment day.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>As sudden as the lightning's flash</l>
+                        <l>Across the sky doth sweep,</l>
+                        <l>Earth's kingdom's were in pieces <choice><abbr>dash'd</abbr><expan>dashed</expan></choice>,</l>
+                        <l>And <choice><abbr>waken'd</abbr><expan>wakened</expan></choice> from their guilty sleep.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I heard the agonizing cry,</l>
+                        <l>Ye rocks and mountains on us fall,</l>
+                        <l>And hide us from the Judge's eye</l>
+                        <l>But rocks and mounts fled from the call</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I saw the guilty <choice><abbr>ruin'd</abbr><expan>ruined</expan></choice> host</l>
+                        <l>Standing before the burning throne,</l>
+                        <l>The <choice><abbr>ruin'd</abbr><expan>ruined</expan></choice>, lost forever lost,</l>
+                        <l>Whom <persName>God</persName> in wrath <choice><abbr>refus'd</abbr><expan>refused</expan></choice> to own.</l>
+                    </lg>
+                </div1>
+                <pb n="16"/>
+                <div1 type="poem">
+                    <head style="text-transform:uppercase"><bibl>A Dream</bibl></head>
+                    <lg>
+                        <l>I had a dream, a varied dream,<seg>*</seg></l><note xml:id="a032">This line also opens one of Harper’s later poems, “Fishers of Men,” which was published in the 1886 edition of <em>Sketches of Southern Life</em>.</note>
+                        <l>A dream of joy and dread;</l>
+                        <l>Before me rose the judgement scene</l>
+                        <l>For <persName>God</persName> has raised the dead.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Each waiting one lifted his head</l>
+                        <l><choice><abbr>Rejoic'd</abbr><expan>Rejoiced</expan></choice> to see him nigh,</l>
+                        <l>And erth cast out her sainted dead</l>
+                        <l>To meet him in the sky</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Before his white and burning throne</l>
+                        <l>A countless throng did stand;</l>
+                        <l>Whilst <persName>Christ</persName> <choice><abbr>confess's</abbr><expan>confessed</expan></choice> his own,</l>
+                        <l>Whose names were on his hand</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I hand a dream, a varied dream,</l>
+                        <l>A dream of joy and dread;</l>
+                        <l>Beofre me rose the judgment scene</l>
+                        <l>For <persName>God</persName> had <choice><abbr>rais'd</abbr><expan>raised</expan></choice> the dead.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Oh for an angel's hand to paint</l>
+                        <l>The terrors of that day,</l>
+                        <l>When <persName>God</persName> in vengance for his saints</l>
+                        <l>Girded<seg>*</seg> himself with wrath to slay.</l><note xml:id="a033">girded: to encircle a person or part of a body with a belt</note>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>But, oh the terror, grief, and dread,</l>
+                        <l>Tongue can't describe or pen portray;</l>
+                        <l>When from their graves arose the dead,</l>
+                        <l>Guilty to meet the judgment day.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>As sudden as the lightning's flash</l>
+                        <l>Across the sky doth sweep,</l>
+                        <l>Earth's kingdom's were in pieces <choice><abbr>dash'd</abbr><expan>dashed</expan></choice>,</l>
+                        <l>And <choice><abbr>waken'd</abbr><expan>wakened</expan></choice> from their guilty sleep.</l>
+                    </lg>
+                    <pb n="17"/>
+                    <lg>
+                        <l>I heard the agonizing cry,</l>
+                        <l>Ye rocks and mountains on us fall,</l>
+                        <l>And hide us from the Judge's eye</l>
+                        <l>But rocks and mounts fled from the call</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I saw the guilty <choice><abbr>ruin'd</abbr><expan>ruined</expan></choice> host</l>
+                        <l>Standing before the burning throne,</l>
+                        <l>The <choice><abbr>ruin'd</abbr><expan>ruined</expan></choice>, lost forever lost,</l>
+                        <l>Whom <persName>God</persName> in wrath <choice><abbr>refus'd</abbr><expan>refused</expan></choice> to own.</l>
+                    </lg>
+                </div1>
+                <div1 type="poem">
+                    <head style="text-transformation: uppercase"><bibl>the felon's</bibl> dream</head>
+                    <lg>
+                        <l>He slept, but oh, it was not calm,</l>
+                        <l>As in the days of infancy;</l>
+                        <l>When sleep is nature's tender balm</l>
+                        <l>To hearts from sorrow free.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>He dream'd that fetters bound him fast,</l>
+                        <l>He pin'd for liberty;</l>
+                        <l>It seem'd deliverance came at last</l>
+                        <l>And he from bonds were free.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>In throught he journey'd<exten>journeyed</exten> where</l>
+                        <l>Familiar voice rose,</l>
+                        <l>Where not a brow was dim with care,</l>
+                        <l>Or bosom heav'd<exten>heaved</exten> with woes.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Around him press'd<exten>pressed</exten> a happy band;</l>
+                        <l>His wife and child drew near;</l>
+                        <l>He felt the pressure of the hand</l>
+                        <l>And dried each falling tear.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>His tender mother cast aside</l>
+                        <l>The tears that dim'd<exten>dimmed</exten> her eye;</l>
+                        <l>His father saw him as the pride</l>
+                        <l>Of brighter days gone by.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>He saw his wife around him cling,</l>
+                        <l>He heard her breathe his name;</l>
+                        <pb n="18"/>
+                        <l>Oh! woman's love 's<extend>is</extend> a precious thing,</l>
+                        <l>A pure undying flame.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>His brethren wept for manly pride,</l>
+                        <l>May bend to woman's tears;</l>
+                        <l>Then welcom'd<exten>welcomed</exten> round their fireside</l>
+                        <l>The playmate of departed years.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>His gentle sister fair and mild</l>
+                        <l>Around him closely press'd<exten>pressed</exten>,</l>
+                        <l>She clasp'd<exten>clasped</exten> his hand and smil'd<exten>smiled</exten></l>
+                        <l>Then wept upon his breast.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>All, all were glad around that hearth,</l>
+                        <l>They hop'd<exten>hoped</exten> his wanderings o'er<exten>over</exten>;</l>
+                        <l>That weary of the strange cold earth</l>
+                        <l>He'd roam from then no more.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>'Twas<exten>It was</exten> but a dream,</l>
+                        <l>It mock'd<exten>mocked</exten> his yearning heart;</l>
+                        <l>It made his bosom feel its blight,</l>
+                        <l>It probed him like a dart.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>A person held his fettered limbs,</l>
+                        <l>Confinement was his lot,</l>
+                        <l>No knidred voice rose to cheer,</l>
+                        <l>He seem'd<exten>seemed</exten> by friends and all forgot.</l>
+                    </lg>
+                    <lb/>
+                </div1>
+                <div1 type="poem">
+                    <head style="text-transformation:uppercase"><bibl>CRUCIFIXION</bibl>.</head>
+                    <lg>
+                        <l>The shadows of morning empurpled<seg>*</seg><note xmlid="a036">empurpled: to tinge or become purple
+                        </note> with light,</l>
+                        <l>Bent o'er<exten>over</exten> <placeName>Judea</placeName>,<seg>*</seg><note xmlid="a037">
+                            <placeName>Judea</placeName>: ancient region of <placeName>Southern Palestine</placeName>, the site of <persName>Jesus Christ’s</persName> ministry and crucifixion.
+                        </note></l>
+                        <l>The sephyr just risen, stole o'er<exten>over</exten> the lea<seg>*</seg><note xmlid="a038"> lea: pasture, grassy land
+                        </note></l>
+                        <l>And dimpled the cheeks of river and sea.</l>
+                    </lg>
+                    <pb n="21"/>
+                    <lg>
+                        <l>On that bright morn, a clamor was heard,</l>
+                        <l>The footsteps of men whose passions were stirred</l>
+                        <l>The voice of wrath, of tumult and strife,</l>
+                        <l>'Twas<exten>It was</exten> the bloodthirsty cry of innocent life.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I gaz'd<exten>gazed</exten> on their victim, on his pale brow,</l>
+                        <l>'Mid<exten>Amid</exten> beamings of love, were shadows of woe;</l>
+                        <l>And his eyes, mid reproach and with'ring<exten>withering</exten> scorn,</l>
+                        <l>Seemed like a star bending o'er<exten>over</exten> a dark storm.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Tho'<exten>Though</exten> pale was his cheek, and ashy his brow;</l>
+                        <l>By sorrow and anguish his spirit bent low;</l>
+                        <l>Yet calm 'mid<exten>amid</exten> the fierce and cruel he stood,</l>
+                        <l>Who, like beasts of the forests were eager for blood.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>And this was the multitude fickle and vain,</l>
+                        <l>Who hail'd<exten>hailed</exten> him in triumph, as coming to reign;</l>
+                        <l>Incited by priests, insatiate<seg>*</seg><note xmlid="a039">insatiate: never satisfied
+                        </note> they stood,</l>
+                        <l>Their cry was his life, their clamor his blood.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>When dying earth drew round her form,</l>
+                        <l>A mantle as dark as the vest of a storm,</l>
+                        <l> Nature grew sad, earth trembled and shrank,</l>
+                        <l>Astonish'd<exten>Astonished</exten> as <persName>Jesus</persName> the dire cup drank.</l>
+                    </lg>
+                </div1>
+                <div1 typer="poem">
+                    <head style="text-transform:uppercase"><bibl>An Acrostic</bibl></head><note xml:id="a040">An acrostic is a poem in which certain letters in each line (often the first letters) spell out a word or phrase.</note>
+                    <lg>
+                        <l>Angels bright that hover <choice><abbr>o'er</abbr><expan>over</expan></choice> thee,</l>
+                        <l>Deem thee an object of their care;</l>
+                        <l>Ever watchful they surround thee,</l>
+                        <l>Lending aid when danger's near.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>May this life, this guarded, sister</l>
+                        <l>Always feel thy <persName>Saviour</persName> near</l>
+                        <l>Render him thy heart's devotion-</l>
+                        <l>Trust his goodness, seek his care;</l>
+                        <l>In these vales of grief and sorrow,</l>
+                        <l>Nought shall harm while <persName>God</persName> is near.</l>
+                    </lg>
+                    <pb n="22"/>
+                </div1>
+                <div1 type="poem">
+                    <head style="text-transformation: uppercase"><bibl>FOR SHE SAID IF I MAY BUT TOUCH OF HIS COTHES I SHALL BE WHOLE.</bibl><note xmlid="a041">Matthew 9:21; Mark 5:28. This story of <persName>Jesus'</persName> healing powers appears in the three synoptic gospels, in which <persName>Jesus</persName> raises <persName>Jairus'</persName> daughter from the dead and heals a woman who had suffered for twelve years with a hemorrhage (Matthew 9:18-26; Mark 5:21-43). In the gospel of Luke, the healed woman’s words are different than in the other two synoptic gospels (Luke 8:40-56). <persName>Harper</persName> revised this poem for her 1854 Poems on Miscellaneous Subjects, where it is titled “Saved by Faith.”
+                    </note></head>
+                    <lg>
+                        <l>Life to her no brightness brought,</l>
+                        <l>Pale and sorrow'd<exten>sorrowed</exten> was her brow</l>
+                        <l>Till a bright and joyous thought,</l>
+                        <l>Lit the darkness of her woe.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Long and had sickness on her preayed;</l>
+                        <l>Strength from every nerve had gone;</l>
+                        <l>Skill and art could give no aid,</l>
+                        <l>Thus her weary life passed on.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Like a sad and mornful<exten>mournful</exten> dream,</l>
+                        <l>Daily felt she life depart;</l>
+                        <l>Hourly knew the vital stream,</l>
+                        <l>Left the fountains of her heart.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>He who'd lull'd<exten>lulled</exten> the storm to rest,</l>
+                        <l>Cleans'd<exten>Cleansed</exten> the lepers, raised the dead;</l>
+                        <l>Whilst a crowd around him prest<exten>pressed</exten></l>
+                        <l>Near that suffering one did tread.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Nerv'd<exten>Nerved</exten> by blended hope and fear,</l>
+                        <l>Reason'd<exten>Reasoned</exten> thus her anxious heart,</l>
+                        <l>If to touch him I draw near,</l>
+                        <l>All my suffering shall depart.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>While the crowd around him stand,</l>
+                        <l>I will touch, the sufferer said,</l>
+                        <l>Forth she reach'd<exten>reached</exten> her timid hand,</l>
+                        <l>As she touch'd<exten>touched</exten>, her sickness fled.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>"Who hath touch'd<exten>touched</exten> me." <persName>Jesus</persName> cried,</l>
+                        <l>Virtue from my body's gone;</l>
+                        <l>From the crowd a voice replied</l>
+                        <l>Why inquire, thousands throng.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>Faint with fear thro'<exten>through</exten> ev'ry<exten>every</exten> limb,</l>
+                        <l>Yet too grateful to deny;</l>
+                        <l>Tremblingly, she knelt to him,</l>
+                        <l>"Lord," she answered, "It was I."</l>
+                    </lg>
+                    <pb n="23"/>
+                    <lg>
+                        <l>Kindly, gently, <persName>Jesus</persName> said,</l>
+                        <l>Words like balm unto her soul,</l>
+                        <l>Peace upon her life be shed,</l>
+                        <l>Child, thy faith has made thee whole.</l>
+                    </lg>
+                </div1>
+                <div1 type="poem">
+                    <head style="text-transform:uppercase"><bibl>The Presentiment</bibl></head><lb/>
+                    <lg>
+                        <l>There's something strangely thrills my breast,</l>
+                        <l>And fills it with a deep unrest,--</l>
+                        <l>It is not grief, it is not pain</l>
+                        <l>Nor wish to live the past again</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>'Tis something which I scarce can tell,</l>
+                        <l>And yet I know, and feel it well;</l>
+                        <l><choice><abbr>Thro'</abbr><expan>through</expan></choice> <choice><abbr>ev'ry</abbr><expan>every</expan></choice> vein it seems to run,</l>
+                        <l>And whispers life will soon be done.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>It comes in accents soft and low,</l>
+                        <l>Like bright streamlets crystal flow,</l>
+                        <l>It whispers, lingers round my heart,</l>
+                        <l>And tells me I must soon depart</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I felt it when the glow of life</l>
+                        <l>Was warm upon my cheek,</l>
+                        <l>In mournful cadence to my heart.</l>
+                        <l>It solemnly did speak.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I felt it when a fearful strife</l>
+                        <l>Was preying on my heart,</l>
+                        <l>It told me from the cares of life,</l>
+                        <l>I quickly must depart.</l>
+                    </lg>
+                    <lb/>
+                    <lg>
+                        <l>I felt it when my cheek grew pale,</l>
+                        <l>By cares I <choice><abbr>couldn't</abbr><expan> could not</expan></choice> repress;</l>
+                        <l>It <choice><abbr>whisper'd</abbr><expan>whispered</expan></choice> to my wearried soul.</l>
+                        <l>This earth is not your rest.</l>
+                    </lg>
+                </div1>
         </body>
     </text>
 </TEI>
