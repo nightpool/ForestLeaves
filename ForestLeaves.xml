@@ -217,7 +217,7 @@
                     <l>There's music, song and dance,</l>
                     <l>There is banishment of care,</l>
                     <l>And mirth in every glance,</l>
-                    <l>But sitll the dead are there.</l>
+                    <l>But still the dead are there.</l>
                 </lg>
                 <lb/>
                 <lg>
@@ -225,7 +225,7 @@
                     <note xml:id="n009" target="#a009">
                         asp: a small, venomous snake from Egypt
                     </note>
-                    <l>Hid 'neath<expan>beneath</expan> flowerets fair,</l>
+                    <l>Hid <choice><abbr>'neath</abbr><expan>beneath</expan></choice> flowerets fair,</l>
                     <l>This <seg xml:id="a010" corresp="#n010">charnal house</seg> concealeth</l>
                     <note xml:id="n010" target="#a010">
                         charnel house: a vault or building where skeletal remains are stored
@@ -433,7 +433,7 @@
                 </lg>
                 <pb n="9"/>
                 <lg>
-                    <l>When <choice><abbr>ev'ry</abbr><expan>every</expan></choice><seg xml:id="a017" corresp="#n017">satrap</seg><choice><abbr>bow'd</abbr><expan>bowed</expan></choice></l>
+                    <l>When <choice><abbr>ev'ry</abbr><expan>every</expan></choice> <seg xml:id="a017" corresp="#n017">satrap</seg> <choice><abbr>bow'd</abbr><expan>bowed</expan></choice></l>
                     <note xml:id="n017" target="#a017">satrap: provincial governer in the ancient <placeName>Persian Empire</placeName>; a subordinate ruler</note>
                     <l>To him of noble blood,</l>
                     <l>Amid that servile crowd</l>
@@ -502,7 +502,7 @@
                 <lg>
                     <l>Let me love thee, yet Oh! yet</l>
                     <l>Breathe not distrust around my heart,</l>
-                    <l>The lov'd, the cherish may forget</l>
+                    <l>The <choice><abbr>lov'd</abbr><expan>loved</expan></choice>, the cherish may forget</l>
                     <l>And act a cold and faithless part.</l>
                 </lg>
                 <lb/>
@@ -651,14 +651,14 @@
                 <lb/>
                 <lg>
                     <l>Let holy horror bleanche each cheek,</l>
-                    <l>Pane ev'ry<expan>every</expan> brow with fears,</l>
+                    <l>Pane <choice><abbr>ev'ry</abbr><expan>every</expan></choice> brow with fears,</l>
                     <l>And rocks and stones if ye could speak</l>
                     <l>Ye well might melt to tears.</l>
                 </lg>
                 <lb/>
                 <lg>
-                    <l>Let sorrow breathe in ev'ry<expan>every</expan> tone</l>
-                    <l>And grief in ev'ry<expan>every</expan> strain ye raise,</l>
+                    <l>Let sorrow breathe in <choice><abbr>ev'ry</abbr><expan>every</expan></choice> tone</l>
+                    <l>And grief in <choice><abbr>ev'ry</abbr><expan>every</expan></choice> strain ye raise,</l>
                     <l>Insult not heaven's majestic throne</l>
                     <l>Wit the mockery of praise.</l>
                 </lg>
@@ -735,7 +735,7 @@
                 </lg>
                 <pb n="14"/>
                 <lg>
-                    <l>'Neath<expan>beneath</expan> bamboo hut and palm tree</l>
+                    <l><choice><abbr>'Neath</abbr><expan>beneath</expan></choice> bamboo hut and palm tree</l>
                     <l>Shall prayer like incense rise,</l>
                     <l>An <seg xml:id="a027" corresp="#n027">oblation</seg> pure and holy</l>
                     <note xml:id="n027" target="#a027">
@@ -944,10 +944,10 @@
                 </lg>
                 <lb/>
                 <lg>
-                    <l>In throught he journey'd<expan>journeyed</expan> where</l>
+                    <l>In throught he <choice><abbr>journey'd</abbr><expan>journeyed</expan></choice> where</l>
                     <l>Familiar voice rose,</l>
                     <l>Where not a brow was dim with care,</l>
-                    <l>Or bosom heav'd<expan>heaved</expan> with woes.</l>
+                    <l>Or bosom <choice><abbr>heav'd</abbr><expan>heaved</expan></choice> with woes.</l>
                 </lg>
                 <lb/>
                 <lg>
@@ -1185,7 +1185,7 @@
                 <lb/>
                 <lg>
                     <l>And this was the multitude fickle and vain,</l>
-                    <l>Who hail'd<expan>hailed</expan> him in triumph, as coming to reign;</l>
+                    <l>Who <choice><abbr>hail'd</abbr><expan>hailed</expan></choice> him in triumph, as coming to reign;</l>
                     <l>Incited by priests, <seg xml:id="a039" corresp="#n039">insatiate</seg> they stood,</l>
                     <note xml:id="n039" target="#a039">insatiate: never satisfied</note>
                     <l>Their cry was his life, their clamor his blood.</l>
@@ -1195,7 +1195,7 @@
                     <l>When dying earth drew round her form,</l>
                     <l>A mantle as dark as the vest of a storm,</l>
                     <l> Nature grew sad, earth trembled and shrank,</l>
-                    <l>Astonish'd<expan>Astonished</expan> as <persName>Jesus</persName> the dire cup drank.</l>
+                    <l><choice><abbr>Astonish'd</abbr><expan>Astonished</expan></choice> as <persName>Jesus</persName> the dire cup drank.</l>
                 </lg>
             </div1>
             <div1 type="poem">
@@ -1253,13 +1253,13 @@
                 <lg>
                     <l>He who'd lull'd the storm to rest,</l>
                     <l><choice><abbr>Cleans'd</abbr><expan>Cleansed</expan></choice> the lepers, raised the dead;</l>
-                    <l>Whilst a crowd around him prest<expan>pressed</expan></l>
+                    <l>Whilst a crowd around him <choice><abbr>prest</abbr><expan>pressed</expan></choice></l>
                     <l>Near that suffering one did tread.</l>
                 </lg>
                 <lb/>
                 <lg>
-                    <l>Nerv'd<expan>Nerved</expan> by blended hope and fear,</l>
-                    <l>Reason'd<expan>Reasoned</expan> thus her anxious heart,</l>
+                    <l><choice><abbr>Nerv'd</abbr><expan>Nerved</expan></choice> by blended hope and fear,</l>
+                    <l><choice><abbr>Reason'd</abbr><expan>Reasoned</expan></choice> thus her anxious heart,</l>
                     <l>If to touch him I draw near,</l>
                     <l>All my suffering shall depart.</l>
                 </lg>
@@ -1279,7 +1279,7 @@
                 </lg>
                 <lb/>
                 <lg>
-                    <l>Faint with fear thro'<expan>through</expan> ev'ry<expan>every</expan> limb,</l>
+                    <l>Faint with fear <choice><abbr>thro'</abbr><expan>through</expan></choice> <choice><abbr>ev'ry</abbr><expan>every</expan></choice> limb,</l>
                     <l>Yet too grateful to deny;</l>
                     <l>Tremblingly, she knelt to him,</l>
                     <l>"<persName>Lord</persName>," she answered, "It was I."</l>
